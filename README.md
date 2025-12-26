@@ -62,6 +62,4 @@ CSharp-Archives/
 
 ---
 
-If you want, I can also **create a version of this README with clickable links to each lesson/project file** so it’s more **interactive and portfolio-ready**.
-
-Do you want me to do that next?
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
