@@ -61,5 +61,3 @@ CSharp-Archives/
 * The lessons progress naturally from **basic syntax → loops → methods → classes and objects**, building a solid foundation in C#.
 
 ---
-
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
