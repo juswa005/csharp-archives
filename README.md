@@ -1,6 +1,3 @@
-Got it! Here’s a **clean C# README** that only covers the files you specified — **no WinForms**, just **console-based OOP lessons and projects**:
-
----
 
 # 💻 C# Projects & Activities
 
