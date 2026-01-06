@@ -3,6 +3,10 @@
 
 This repository contains a collection of my **C# projects and coding exercises** from my freshman year of college. These projects demonstrate my progression in **problem-solving, object-oriented programming, and console application development**, as well as my growing understanding of software design principles.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Language: C%23](https://img.shields.io/badge/Language-C%23-blue.svg)]()
+[![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)]()
+
 ---
 
 ## 🗂️ Project Categories
